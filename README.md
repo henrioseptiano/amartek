@@ -1,0 +1,2 @@
+# amartek
+amertek coding test
